@@ -15,7 +15,7 @@ Email is best. Please, no spam.
 
 jhonatansantanati@gmail.com
 
-or linkedin:
+Or linkedin:
 
 <p align="start">
  <a target="_blank" href="https://www.linkedin.com/in/jhonatanreiss/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
