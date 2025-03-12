@@ -5,8 +5,7 @@ I'm Jhonatan Reis, a programmer.
 
 It's really nice to meet you.
 
-🔭 I’m currently working on ...
-My Personal Project @AfterPosts. a solution the tracking packages global.
+🔭 I’m currently working on My Personal Project @AfterPosts. a solution the tracking packages global.
 
 During the evenings and weekends, I'm usually studying college subjects and learning new things while building AfterPosts.
 
