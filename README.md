@@ -22,7 +22,7 @@ const data = {
         }
     },
     contact: {
-        email: jhonatansantanati@gmail.com,
+        email: "jhonatansantanati@gmail.com",
     },
 };
 ```
